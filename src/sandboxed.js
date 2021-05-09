@@ -1,1 +1,3 @@
-console.og(`sandbos`)
+while (true) {
+  console.og(`sandboked`)
+}
